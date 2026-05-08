@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wealth-management.noahstjohn.com/sitemap-index.xml
